@@ -17,11 +17,17 @@ The dataset includes the following key attributes:
 To run this repository locally:
 + Clone the repository to your local machine.
 + Create a virtual environment for the project.
+```
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+```
 + Install all the required dependencies.
-+ Download the pre-trained weights for the models here. Make sure to add them in a 'weights' folder in the project directory.
+```
+pip install -r requirements.txt
+```
 + Run the following command in your terminal to run the app
 ```
-streamlit run app.py
+python app.py
 ```
 
 ## Get Started
