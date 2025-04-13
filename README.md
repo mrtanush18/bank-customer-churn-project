@@ -1,6 +1,6 @@
-# Bank Customer Churn Prediction
+## Bank Customer Churn Prediction
 
-Intro
+# Intro
 This project is a machine learning-based web application designed to predict customer churn in the banking sector. It enables businesses to anticipate which customers are likely to leave and take proactive measures to retain them.
 
 Data Source
